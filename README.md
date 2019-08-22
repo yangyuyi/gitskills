@@ -1,8 +1,6 @@
 GitSkills
 ======
-概要
--------
-*something about git skills*. 
+*something about git skills*   
 **参考文献**：[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 创建版本库

@@ -10,7 +10,7 @@ GitSkills
 把文件添加到版本库
 -------
 - 第一步:将文件添加到暂存区(*stage*):`$ git add <file>`. 
-- 第二步：将暂存区的所有内容提交到当前分支:`$ git commit -m "message"  
+- 第二步：将暂存区的所有内容提交到当前分支:`$ git commit -m "message"` 
 
 查看git当前状态
 -------
